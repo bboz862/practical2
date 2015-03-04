@@ -1,0 +1,11 @@
+all_system_calls = ['accept_socket', 'add_netjob', 'bind_socket', 'change_service_config', 'check_for_debugger', 'com_create_instance', 'com_createole_object', 
+'com_get_class_object', 'connect', 'connect_socket', 'control_service', 'copy_file', 'create_directory', 'create_file', 'create_interface', 'create_key', 'create_mailslot', 
+'create_mutex', 'create_namedpipe', 'create_open_file', 'create_process', 'create_process_as_user', 'create_process_nt', 'create_service', 'create_socket', 'create_thread', 
+'create_thread_remote', 'create_window', 'delete_file', 'delete_key', 'delete_service', 'delete_share', 'delete_value', 'destroy_window', 'download_file', 
+'download_file_to_cache', 'dump_line', 'enum_handles', 'enum_items', 'enum_keys', 'enum_modules', 'enum_processes', 'enum_services', 'enum_share', 'enum_subtypes', 
+'enum_types', 'enum_values', 'enum_window', 'exit_windows', 'find_file', 'find_window', 'get_computer_name', 'get_file_attributes', 'get_host_by_addr', 'get_host_by_name', 
+'get_system_directory', 'get_system_time', 'get_userinfo', 'get_username', 'get_windows_directory', 'impersonate_user', 'kill_process', 'listen_socket', 'load_dll', 
+'load_driver', 'load_image', 'logon_as_user', 'message', 'move_file', 'open_file', 'open_key', 'open_mutex', 'open_process', 'open_scmanager', 'open_service', 'open_url', 
+'process', 'query_value', 'read_section', 'read_value', 'recv_socket', 'remove_directory', 'revert_to_self', 'send_socket', 'set_file_attributes', 'set_file_time', 
+'set_system_time', 'set_thread_context', 'set_value', 'set_windows_hook', 'show_window', 'sleep', 'start_service', 'thread', 'trimmed_bytes', 'unload_driver', 'vm_allocate', 
+'vm_mapviewofsection', 'vm_protect', 'vm_read', 'vm_write', 'write_value']
